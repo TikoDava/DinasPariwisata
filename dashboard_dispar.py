@@ -438,4 +438,4 @@ else:
 # --- FOOTER ---
 st.markdown("---")
 st.markdown("Aplikasi ini dikembangkan oleh Dinas Pariwisata Kabupaten Pasuruan untuk mempromosikan dan memetakan Usaha Ekonomi Kreatif di wilayah Kabupaten Pasuruan.")
-st.markdown("Kontak: [dispar.pasuruan@example.com](mailto:dispar.pasuruan@example.com)")
+
